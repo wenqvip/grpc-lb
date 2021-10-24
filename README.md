@@ -17,7 +17,7 @@
 
 	# https://coreos.com/etcd/docs/latest/op-guide/container.html#docker
 
-	export NODE1=192.168.1.21
+	export NODE1=192.168.31.237
 
 	docker volume create --name etcd-data
 	export DATA_DIR="etcd-data"
