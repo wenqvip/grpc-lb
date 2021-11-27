@@ -7,6 +7,6 @@ environment:
   
 steps:
 - name: build c
-  image: gcc
+  image: golang
   commands:
-  - go build
+  - make
