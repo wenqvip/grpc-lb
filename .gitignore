@@ -16,3 +16,4 @@
 .idea/
 default.etcd/
 bin
+.DS_Store
